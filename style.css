@@ -1,0 +1,18 @@
+html, body {
+	background : #d9d9d9;
+}
+
+.eineBox {
+	background-color : beige;
+	color : black;
+	border : 3px solid blue;
+	}
+
+.boxenbereich {
+	padding : 50px;
+	background-color : darkgray;
+}
+
+
+
+
